@@ -14,6 +14,7 @@
 
 ---
 
+## /lib/NaverNewsCrawler.py 의 client_id, client_secret부분에 사용자의 API KEY값을 적용 후 사용하세요.
 
 ---
 
