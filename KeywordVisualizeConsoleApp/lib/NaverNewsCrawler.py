@@ -3,8 +3,8 @@ import json
 
 def searchNaverNews(keyword, start, display):
 
-    client_id = "2M2SgVT6RroXBjB5aVfU"
-    client_secret = "oCDJ9e6Rp6"
+    client_id = "Your_Client_API_Key"
+    client_secret = "Your_Secret_API_Key"
 
     # 한글 검색어 안전하게 변환
     encText = urllib.parse.quote(keyword)
